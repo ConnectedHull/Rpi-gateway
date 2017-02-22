@@ -8,5 +8,5 @@ https://twitter.com/fortyfourmu?lang=en
 ![Demo of PCB in use](1.jpg "PCB waiting to be assembled")
 ![Demo of PCB in use assembled](2.jpg "PCB in situ")
 
-You can order the 
+You can order the gateway modules here. 
 http://webshop.imst.de/radio-modules/lora-concentrators/ic880a-spi-lorawan-concentrator-868mhz.html
